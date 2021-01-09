@@ -1,7 +1,6 @@
 ### Monaca
 ---
-https://ja.monaca.io/
-
+https://console.monaca.mobi/dashboard
 
 
 ```
